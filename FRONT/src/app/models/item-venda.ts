@@ -8,4 +8,5 @@ export interface ItemVenda {
     preco: number;
     carrinhoId: string;
     criadoEm?: Date;
+    //alteração pedida do prof
 }

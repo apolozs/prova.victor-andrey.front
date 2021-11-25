@@ -9,4 +9,5 @@ export interface Produto {
     criadoem?: string;
     categoriaId: number;
     categoria?: Categoria;
+    //alteração pedida do prof
 }
